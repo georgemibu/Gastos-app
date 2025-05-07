@@ -1,0 +1,54 @@
+.planning-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .planning-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .budget-form {
+    margin-bottom: 20px;
+  }
+  
+  .budget-item {
+    margin-bottom: 15px;
+  }
+  
+  .budget-item label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .budget-item input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .expenses-summary {
+    margin-top: 30px;
+  }
+  
+  .expenses-summary p {
+    margin: 5px 0;
+  }
+  
+  .category-item {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .over-budget {
+    color: red;
+    font-weight: bold;
+  }
+  
